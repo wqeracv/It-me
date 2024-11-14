@@ -3,7 +3,7 @@
 Git파일 commit하는 순서
 1. git init으로 초기화
 2. git config를 이용한 기본 설정
-  -git config user.name "1234"
-  -git config user.email "1234@4321"
-  -git status 
-  -git add .는 git status에서 문제가 생겼을때 사용
+  - git config user.name "1234"
+  - git config user.email "1234@4321.com"
+  - git status 
+  - git add .는 git status에서 문제가 생겼을때 사용
